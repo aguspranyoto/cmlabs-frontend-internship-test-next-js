@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Mealapp",
-  description: "Cmlabs Frontend Internship Test",
+  description: "Cmlabs Frontend Internship Test With Next Js",
 };
 
 export default function RootLayout({
@@ -18,8 +18,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <Navbar />
-        {children}
+        <div className="max-w-4xl mx-auto px-6 sm:px-0">
+          <Navbar />
+          {children}
+        </div>
       </body>
     </html>
   );
