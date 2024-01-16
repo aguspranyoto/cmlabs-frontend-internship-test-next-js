@@ -1,3 +1,19 @@
+## Overview
+
+Project ini adalah Pre-assessment Test dari cmlabs untuk posisi Front-end Developer Internship.
+
+## Demo Project
+
+https://cmlabs-frontend-internship-test-next-js.vercel.app/
+
+Dibuat menggunakan:
+
+![NEXTJS][NEXTJS]
+![TAILWIND][TAILWIND]
+![REACT][REACT]
+![TYPESCRIPT][TYPESCRIPT]
+![ZUSTAND][ZUSTAND]
+
 ## Requirements
 
 - NPM version 10.1.0
@@ -57,3 +73,4 @@ Website Portfolio: https://agus-pranyoto.web.app/
 [AJAX]: https://img.shields.io/badge/-AJAX-blue
 [REACT]: https://img.shields.io/badge/-REACT-yellow
 [TYPESCRIPT]: https://img.shields.io/badge/-TYPESCRIPT-orange
+[ZUSTAND]: https://img.shields.io/badge/-ZUSTAND-orange
