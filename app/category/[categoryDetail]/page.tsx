@@ -1,7 +1,7 @@
 import React from "react";
 
-const Category = () => {
-  return <div>Category</div>;
+const CategoryDetailPage = () => {
+  return <div>CategoryDetailPage</div>;
 };
 
-export default Category;
+export default CategoryDetailPage;
