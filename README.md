@@ -3,6 +3,18 @@
 - NPM version 10.1.0
 - NODE JS version v20.9.0
 
+## Demo
+
+https://cmlabs-frontend-internship-test-next-js.vercel.app/
+
+## Screenshot Desktop
+
+![screenshot desktop](./public/desktop.png)
+
+## Screenshot Mobile
+
+![screenshot mobile](./public/mobile.png)
+
 ## Instalation
 
 Buka terminal cmd lalu ketik dan jalankan
